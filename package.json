@@ -20,9 +20,20 @@
     "@parcel/transformer-sass": "^2.0.0-rc.0",
     "http-server": "^13.0.2",
     "parcel": "^2.0.0-rc.0",
-    "sass": "^1.40.1"
+    "sass": "^1.42.1"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
-  }
+    "ejs": "^3.1.6",
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  },
+  "default": "src/index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anitanancy2811/TODOLIST.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anitanancy2811/TODOLIST/issues"
+  },
+  "homepage": "https://github.com/anitanancy2811/TODOLIST#readme"
 }
